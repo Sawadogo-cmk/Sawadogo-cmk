@@ -8,6 +8,10 @@
   <a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sawadogo-cmk&label=Visiteurs&color=0e75b6&style=flat" alt="Visiteurs" />
+</p>
+
 ---
 
 ## 🧠 À propos de moi
@@ -24,7 +28,7 @@
 ## 🛠️ Stack technique
 
 **Langages**
-![Python](https://img.shields.io/badge/Python-3777AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -56,32 +60,37 @@
 
 ## 🚀 Projets phares
 
-### 🕶️ HopeVision AI — Lunettes intelligentes pour malvoyants
+### 🕶️ [HopeVision AI](https://github.com/Sawadogo-cmk/Hopevision_capstone) — Lunettes intelligentes pour malvoyants
 > Système embarqué de vision par ordinateur sur **Raspberry Pi** aidant les personnes malvoyantes à se déplacer.
 - Dataset de **3 345 images** annotées sur Roboflow
-- Modèles **YOLO + OpenCV** pour la détection d'objets et d'obstacles en temps réel
-- Évaluation : **mAP50, precision, recall**
+- Modèles **YOLOv8n + OpenCV** pour la détection d'objets et d'obstacles en temps réel
+- Évaluation : **mAP50 = 0,94 • Précision = 0,92 • Rappel = 0,88**
 - 🎯 Impact : accessibilité abordable au Niger
 
-### 🚗 Détection de plaques & véhicules au Niger
-> Système adapté aux conditions locales (images de qualité variable, plaques non standardisées).
-- **4 000 images** collectées et annotées (2 500 véhicules + 1 500 plaques)
-- Détection YOLO + lecture OCR avec **EasyOCR**
-- 🎯 Impact : sécurité routière et identification rapide de véhicules suspects
+### 🏥 [MediTrack AI](https://github.com/Sawadogo-cmk/meditrack-ai) — Gestion de santé + IA
+> Plateforme intelligente de gestion des établissements de santé : patients, médecins, rendez-vous, consultations et dossiers médicaux.
+- Module IA d'aide à la décision (prévisions de charge)
+- Stack : **React • Python • Laravel • TypeScript**
+- 🎯 Impact : digitalisation du parcours de soin
 
-### 🩺 Diagnostic du Paludisme assisté par IA
+### 🧠 [Talent Engine](https://github.com/Sawadogo-cmk/talent_engine) — Scoring de candidatures
+> Système de qualification, scoring et priorisation de candidatures pour le programme développeurs SKULLVI.
+- Import CV PDF, auto-qualification, scoring pondéré configurable
+- Stack : **Python • SQLite**
+- 🎯 Impact : accélérer et objectiver le recrutement
+
+### 🩺 [Détection du Paludisme assistée par IA](https://github.com/Sawadogo-cmk/Paludisme)
 > Détection automatique du paludisme à partir d'images de frottis sanguins.
 - Pipeline **OpenCV** + vision par ordinateur
 - 🎯 Impact : accélérer le diagnostic d'une maladie majeure au Niger
 
-### 🎓 Prédiction de l'échec scolaire
-> Modèle ML identifiant en amont les élèves à risque de décrochage.
-- Déployé en **application Streamlit** pour les enseignants
-- 🎯 Impact : intervention précoce, réduction de l'abandon scolaire
+### 📱 [CaféLow](https://github.com/Sawadogo-cmk/cafelow) — Application mobile café
+> Application Flutter de gestion de café & commandes en ligne (Android/Web).
+- Stack : **Flutter • Dart • Node.js • MySQL • Cloudinary**
 
-### 💊 Application mobile de rappel de médicaments
-> App cross-platform (**React Native + MongoDB**) avec **notifications vocales**.
-- 🎯 Impact : meilleure observance thérapeutique, surtout pour les personnes âgées
+### 💰 [Expense Tracker](https://github.com/Sawadogo-cmk/expense_tracker) — Gestion de dépenses
+> Application Flutter de gestion de dépenses personnelles avec statistiques, export CSV et mode sombre.
+- Stack : **Flutter • Hive • Provider**
 
 ---
 
@@ -93,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sawadogo-cmk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Sawadogo-cmk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
