@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:203a43,100:70A5FD&height=260&section=header&text=Noé%20Sawadogo&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ingénieur%20IA%20%E2%80%A2%20Backend%20%E2%80%A2%20Vision%20par%20Ordinateur&descAlignY=62&descSize=20" width="100%" />
 
+<img src="https://images.weserv.nl/?url=github.com/Sawadogo-cmk.png&w=320&h=320&fit=cover&mask=circle&maxage=7d" width="160" alt="Photo de profil de Noé Sawadogo" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&height=50&lines=Construire+des+solutions+IA+utiles+pour+l'Afrique+🌍;Vision+par+ordinateur+%2B+Deep+Learning+🤖;Backend+robuste+et+APIs+scalables+⚙️;Toujours+en+apprentissage+📚" />
 </a>
@@ -131,15 +133,15 @@ IA à impact local : *agriculture, santé, éducation…*
 
 </div>
 
-<!--
-OPTIONNEL : animation "snake" de tes contributions.
-Nécessite la GitHub Action Platane/snk dans ton repo Sawadogo-cmk.
-Une fois générée, décommente :
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" width="97%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpent qui mange mes contributions" src="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" width="97%" />
+</picture>
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
 
