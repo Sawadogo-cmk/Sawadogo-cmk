@@ -7,8 +7,6 @@
 <a href="https://portfolio-sawadogo-noe.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=70A5FD" /></a>
 <a href="https://linkedin.com/in/sawadogo-noe-ingenieur-ia"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-<img src="https://komarev.com/ghpvc/?username=Sawadogo-cmk&label=Visiteurs&color=70A5FD&style=for-the-badge&labelColor=0d1117" />
-
 </div>
 
 <br/>
