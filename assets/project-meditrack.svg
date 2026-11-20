@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 236" width="1200" height="236" role="img" aria-label="MediTrack AI — Gestion des établissements de santé : patients, médecins, rendez-vous, consultations, avec un module IA d'aide à la décision.">
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .fu{opacity:0;animation:fu .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes fu{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+
+  .arr{animation:nudge 1.6s ease-in-out infinite}
+  @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}
+</style>
+<defs>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="236">
+    <stop offset="0" stop-color="#A78BFA"/><stop offset=".35" stop-color="#30363d"/><stop offset=".65" stop-color="#30363d"/><stop offset="1" stop-color="#A78BFA"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 600 118" to="360 600 118" dur="7s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(116 118) scale(320)">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity=".18"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<g class="fu" style="animation-delay:0s">
+  <rect x="1" y="1" width="1198" height="234" rx="22" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="234" rx="22" fill="url(#g)"/>
+  <rect x="1" y="1" width="1198" height="234" rx="22" fill="none" stroke="url(#b)" stroke-width="2"/>
+
+  <circle cx="116" cy="118" r="62" fill="#A78BFA" fill-opacity=".08" stroke="#A78BFA" stroke-opacity=".4"/>
+  <circle cx="116" cy="118" r="62" fill="none" stroke="#A78BFA" stroke-width="2">
+    <animate attributeName="r" values="62;78" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".5;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(116 118)">
+    <path d="M-40 4h16l7-20 12 40 9-30 6 10h30" fill="none" stroke="#A78BFA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+      stroke-dasharray="170" stroke-dashoffset="170">
+      <animate attributeName="stroke-dashoffset" values="170;0;0;-170" keyTimes="0;.45;.6;1" dur="2.8s" repeatCount="indefinite"/>
+    </path></g>
+
+  <text x="220" y="54" class="mono" font-size="15" letter-spacing="2" fill="#A78BFA">SANTÉ · PLATEFORME WEB + IA</text>
+  <text x="220" y="96" class="sans" font-size="36" font-weight="800" fill="#e6edf3">MediTrack AI</text>
+  <text class="sans" font-size="20" fill="#8b949e">
+    <tspan x="220" y="132">Gestion des établissements de santé : patients, médecins, rendez-vous,</tspan><tspan x="220" y="159">consultations, avec un module IA d'aide à la décision.</tspan>
+  </text>
+  <rect x="220" y="176" width="126" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".35"/>
+    <text x="283" y="197" text-anchor="middle" class="mono" font-size="15" fill="#c9d1d9">TypeScript</text>
+    <rect x="356" y="176" width="50" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".35"/>
+    <text x="381" y="197" text-anchor="middle" class="mono" font-size="15" fill="#c9d1d9">IA</text>
+    <rect x="416" y="176" width="78" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".35"/>
+    <text x="455" y="197" text-anchor="middle" class="mono" font-size="15" fill="#c9d1d9">Santé</text>
+
+  <g class="arr"><circle cx="1124" cy="118" r="28" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".5"/>
+    <path d="M1113 118h22m-8-8 8 8-8 8" fill="none" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

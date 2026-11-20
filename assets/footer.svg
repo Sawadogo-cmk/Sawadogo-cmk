@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Merci de ta visite">
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .fu{opacity:0;animation:fu .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes fu{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+
+  .w1{animation:sl 14s linear infinite}.w2{animation:sl 9s linear infinite reverse}.w3{animation:sl 20s linear infinite}
+  @keyframes sl{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+</style>
+<defs>
+  
+  <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+    <stop offset="0.000" stop-color="#70A5FD"/><stop offset="0.333" stop-color="#A78BFA"/><stop offset="0.667" stop-color="#22D3EE"/><stop offset="1.000" stop-color="#70A5FD"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#70A5FD"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="190" rx="0"/></clipPath>
+</defs>
+<text x="600" y="44" text-anchor="middle" class="sans fu" font-size="26" font-weight="700" fill="url(#f)" letter-spacing="2">Merci de ta visite ✦ À bientôt</text>
+<g clip-path="url(#c)">
+  <path class="w3" d="M0 96 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 q75 -14 150 0 t150 0 V190 H0 Z" fill="url(#b)" opacity=".18"/>
+  <path class="w1" d="M0 116 q100 -18 200 0 t200 0 q100 -18 200 0 t200 0 q100 -18 200 0 t200 0 q100 -18 200 0 t200 0 q100 -18 200 0 t200 0 q100 -18 200 0 t200 0 V190 H0 Z" fill="url(#a)" opacity=".35"/>
+  <path class="w2" d="M0 136 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 q60 -12 120 0 t120 0 V190 H0 Z" fill="url(#b)" opacity=".55"/>
+</g>
+</svg>

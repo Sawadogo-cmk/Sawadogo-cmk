@@ -1,171 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:203a43,100:70A5FD&height=260&section=header&text=Noé%20Sawadogo&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ingénieur%20IA%20%E2%80%A2%20Backend%20%E2%80%A2%20Vision%20par%20Ordinateur&descAlignY=62&descSize=20" width="100%" />
-
-<img src="https://images.weserv.nl/?url=github.com/Sawadogo-cmk.png&w=320&h=320&fit=cover&mask=circle&maxage=7d" width="160" alt="Photo de profil de Noé Sawadogo" />
-
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&height=50&lines=Construire+des+solutions+IA+utiles+pour+l%27Afrique+%F0%9F%8C%8D;Vision+par+ordinateur+%2B+Deep+Learning+%F0%9F%A4%96;Backend+robuste+et+APIs+scalables+%E2%9A%99%EF%B8%8F;Toujours+en+apprentissage+%F0%9F%93%9A" alt="Construire des solutions IA utiles pour l'Afrique" /></a>
+<img src="assets/header.svg" width="100%" alt="Noé Sawadogo — Ingénieur IA, Backend et Vision par ordinateur" />
 
 <br/><br/>
 
-<a href="https://portfolio-sawadogo-noe.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-70A5FD?style=for-the-badge&logo=firefox&logoColor=0f2027&labelColor=0f2027" /></a>
-<a href="https://linkedin.com/in/sawadogo-noe-ingenieur-ia"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" /></a>
-<a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sawadogo-cmk&label=VISITEURS&color=70A5FD&style=flat-square&labelColor=0f2027" />
-<img src="https://img.shields.io/github/followers/Sawadogo-cmk?label=FOLLOWERS&style=flat-square&color=70A5FD&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/STATUT-Ouvert%20aux%20opportunités-2ea44f?style=flat-square&labelColor=0f2027" />
+<a href="https://portfolio-sawadogo-noe.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=70A5FD" /></a>
+<a href="https://linkedin.com/in/sawadogo-noe-ingenieur-ia"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sawadogo-cmk&label=Visiteurs&color=70A5FD&style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
+<br/>
 
-<h2 align="center">✦ À PROPOS ✦</h2>
+<img src="assets/title-about.svg" width="100%" alt="01 — À propos" />
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<img src="assets/terminal.svg" width="100%" alt="whoami : Noé Sawadogo, Ingénieur IA et Développeur Backend. Licence en IA (ADU Niamey), Dev IA / Backend sur un ERP Cloud SaaS. Focus : vision par ordinateur, deep learning, APIs REST." />
 
-### 👋 Salut, je suis Noé
+<br/>
 
-Je conçois des **solutions d'intelligence artificielle accessibles** pour répondre à des besoins réels en Afrique : de la **vision par ordinateur** aux **APIs backend** qui les mettent en production.
-
-> *« L'IA n'a de valeur que si elle résout de vrais problèmes. »*
-
-</td>
-<td width="45%" valign="top">
-
-🎓 **Licence en IA** — ADU Niamey
-💼 **Stage Dev IA / Backend** — ERP Cloud SaaS
-📍 **Ouagadougou**, Burkina Faso 🇧🇫
-🎯 **Objectif** : une IA légère et locale
-📫 **noesawadogo46@gmail.com**
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
-
-<h2 align="center">✦ STACK TECHNIQUE ✦</h2>
+<img src="assets/title-stack.svg" width="100%" alt="02 — Stack technique" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,git,linux,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,ts&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,raspberrypi,vscode&theme=dark" />
 
 </div>
 
 <br/>
+
+<img src="assets/title-projects.svg" width="100%" alt="03 — Projets à la une" />
+
+<a href="https://github.com/Sawadogo-cmk/Hopevision_capstone"><img src="assets/project-hopevision.svg" width="100%" alt="HopeVision — lunettes intelligentes pour personnes malvoyantes" /></a>
+<a href="https://github.com/Sawadogo-cmk/meditrack-ai"><img src="assets/project-meditrack.svg" width="100%" alt="MediTrack AI — gestion des établissements de santé avec IA" /></a>
+<a href="https://github.com/Sawadogo-cmk/talent_engine"><img src="assets/project-talent.svg" width="100%" alt="Talent Engine — scoring et priorisation de candidatures" /></a>
+
+<br/>
+
+<img src="assets/title-stats.svg" width="100%" alt="04 — Statistiques" />
 
 <div align="center">
 
-| 🤖 IA / Deep Learning | 👁️ Vision | ⚙️ Backend | ☁️ Outils |
-|:---:|:---:|:---:|:---:|
-| PyTorch · TensorFlow<br/>scikit-learn | OpenCV · YOLO<br/>CNN | FastAPI · REST<br/>PostgreSQL | Docker · Git<br/>Linux |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sawadogo-cmk&show_icons=true&hide_border=true&count_private=true&border_radius=18&bg_color=0d1117&title_color=70A5FD&icon_color=A78BFA&text_color=c9d1d9&ring_color=22D3EE" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawadogo-cmk&layout=compact&hide_border=true&border_radius=18&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&langs_count=6" />
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Sawadogo-cmk&hide_border=true&border_radius=18&background=0d1117&ring=A78BFA&fire=22D3EE&currStreakNum=e6edf3&currStreakLabel=70A5FD&sideNums=e6edf3&sideLabels=70A5FD&dates=8b949e&stroke=30363d" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
-
-<h2 align="center">✦ PROJETS À LA UNE ✦</h2>
-
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-### 👓 HopeVision
-Lunettes intelligentes pour personnes malvoyantes : détection d'obstacles, lecture de texte (OCR) et envoi de SMS par commande vocale, sur Raspberry Pi 4.
-*Projet de fin d'études, ADU Niamey 2026.*
-
-`Python` `YOLOv8n` `OCR` `Raspberry Pi`
-
-[**Voir le projet →**](https://github.com/Sawadogo-cmk/Hopevision_capstone)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏥 MediTrack AI
-Plateforme de gestion des établissements de santé (patients, médecins, rendez-vous, consultations) avec un module IA d'aide à la décision.
-
-`TypeScript` `IA` `Santé`
-
-[**Voir le projet →**](https://github.com/Sawadogo-cmk/meditrack-ai)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎯 Talent Engine
-Qualification, scoring et priorisation de candidatures : import de CV PDF, auto-qualification et scoring pondéré configurable.
-
-`Python` `PDF` `Scoring`
-
-[**Voir le projet →**](https://github.com/Sawadogo-cmk/talent_engine)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
-
-<h2 align="center">✦ STATISTIQUES ✦</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sawadogo-cmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f2027&title_color=70A5FD&icon_color=70A5FD" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawadogo-cmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=70A5FD" />
-
-<img src="https://streak-stats.demolab.com?user=Sawadogo-cmk&theme=tokyonight&hide_border=true&background=0f2027&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sawadogo-cmk&theme=tokyo-night&hide_border=true&area=true&bg_color=0f2027&color=70A5FD&line=70A5FD&point=ffffff" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sawadogo-cmk&hide_border=true&area=true&radius=18&bg_color=0d1117&color=c9d1d9&title_color=70A5FD&line=A78BFA&point=22D3EE&area_color=70A5FD" width="100%" />
 
 </div>
 
 <br/>
+
+<img src="assets/title-snake.svg" width="100%" alt="05 — Contributions" />
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake.svg" />
-  <img alt="Serpent qui mange mes contributions" src="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" width="97%" />
+  <img alt="Serpent qui mange mes contributions" src="https://raw.githubusercontent.com/Sawadogo-cmk/Sawadogo-cmk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
+<br/>
 
-<h2 align="center">✦ EN CE MOMENT ✦</h2>
+<img src="assets/title-contact.svg" width="100%" alt="06 — Contact" />
 
 <div align="center">
 
-| 🔭 En cours | 📚 J'apprends | 🤝 Je cherche |
-|:---:|:---:|:---:|
-| IA dans un **ERP Cloud SaaS** | **Vision par ordinateur** & MLOps | Stages, collaborations, projets à impact |
+**Ouvert aux stages, collaborations et projets à impact.** Écris-moi !
+
+<a href="https://linkedin.com/in/sawadogo-noe-ingenieur-ia"><img src="https://img.shields.io/badge/Discutons_sur-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/Écris--moi-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://portfolio-sawadogo-noe.netlify.app/"><img src="https://img.shields.io/badge/Visite-Portfolio-70A5FD?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
-<details>
-<summary><b>💬 Demande-moi des infos sur…</b></summary>
-<br/>
-
-IA · Python · APIs REST · Vision par ordinateur · Démarrer en IA en Afrique
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<h2>✦ CONTACT ✦</h2>
-
-<a href="https://linkedin.com/in/sawadogo-noe-ingenieur-ia"><img src="https://img.shields.io/badge/Discutons_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" /></a>
-<a href="mailto:noesawadogo46@gmail.com"><img src="https://img.shields.io/badge/Écris--moi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027" /></a>
-<a href="https://portfolio-sawadogo-noe.netlify.app/"><img src="https://img.shields.io/badge/Visite-Portfolio-70A5FD?style=for-the-badge&logo=firefox&logoColor=0f2027&labelColor=0f2027" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:70A5FD&height=140&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="Merci de ta visite" />
