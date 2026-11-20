@@ -4,9 +4,9 @@
 
 <img src="https://images.weserv.nl/?url=github.com/Sawadogo-cmk.png&w=320&h=320&fit=cover&mask=circle&maxage=7d" width="160" alt="Photo de profil de Noé Sawadogo" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&height=50&lines=Construire+des+solutions+IA+utiles+pour+l'Afrique+🌍;Vision+par+ordinateur+%2B+Deep+Learning+🤖;Backend+robuste+et+APIs+scalables+⚙️;Toujours+en+apprentissage+📚" />
-</a>
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&height=50&lines=Construire+des+solutions+IA+utiles+pour+l%27Afrique+%F0%9F%8C%8D;Vision+par+ordinateur+%2B+Deep+Learning+%F0%9F%A4%96;Backend+robuste+et+APIs+scalables+%E2%9A%99%EF%B8%8F;Toujours+en+apprentissage+%F0%9F%93%9A" alt="Construire des solutions IA utiles pour l'Afrique" /></a>
 
 <br/><br/>
 
@@ -69,8 +69,6 @@ Je conçois des **solutions d'intelligence artificielle accessibles** pour répo
 
 </div>
 
-> ✏️ *Garde uniquement les icônes que tu maîtrises (liste modifiable dans `?i=...`).*
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
 
 <h2 align="center">✦ PROJETS À LA UNE ✦</h2>
@@ -79,38 +77,37 @@ Je conçois des **solutions d'intelligence artificielle accessibles** pour répo
 <tr>
 <td width="33%" valign="top">
 
-### 🔍 Projet 1
-Vision par ordinateur : *ce qu'il fait + résultat chiffré*
+### 👓 HopeVision
+Lunettes intelligentes pour personnes malvoyantes : détection d'obstacles, lecture de texte (OCR) et envoi de SMS par commande vocale, sur Raspberry Pi 4.
+*Projet de fin d'études, ADU Niamey 2026.*
 
-`Python` `OpenCV` `PyTorch`
+`Python` `YOLOv8n` `OCR` `Raspberry Pi`
 
-[**Voir le projet →**](https://github.com/Sawadogo-cmk)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Projet 2
-API backend : *problème résolu + impact*
-
-`FastAPI` `PostgreSQL` `Docker`
-
-[**Voir le projet →**](https://github.com/Sawadogo-cmk)
+[**Voir le projet →**](https://github.com/Sawadogo-cmk/Hopevision_capstone)
 
 </td>
 <td width="33%" valign="top">
 
-### 🌍 Projet 3
-IA à impact local : *agriculture, santé, éducation…*
+### 🏥 MediTrack AI
+Plateforme de gestion des établissements de santé (patients, médecins, rendez-vous, consultations) avec un module IA d'aide à la décision.
 
-`Python` `TensorFlow`
+`TypeScript` `IA` `Santé`
 
-[**Voir le projet →**](https://github.com/Sawadogo-cmk)
+[**Voir le projet →**](https://github.com/Sawadogo-cmk/meditrack-ai)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Talent Engine
+Qualification, scoring et priorisation de candidatures : import de CV PDF, auto-qualification et scoring pondéré configurable.
+
+`Python` `PDF` `Scoring`
+
+[**Voir le projet →**](https://github.com/Sawadogo-cmk/talent_engine)
 
 </td>
 </tr>
 </table>
-
-> ✏️ *Remplace par tes vrais projets. Un résultat chiffré (ex. « précision 94 % ») fait la différence.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:70A5FD&height=2&section=header" width="100%" />
 
@@ -122,10 +119,6 @@ IA à impact local : *agriculture, santé, éducation…*
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawadogo-cmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=70A5FD" />
 
 <img src="https://streak-stats.demolab.com?user=Sawadogo-cmk&theme=tokyonight&hide_border=true&background=0f2027&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sawadogo-cmk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 <br/>
 
